@@ -10,7 +10,7 @@
 
 En este repositorio, encontrarás todos los recursos necesarios para seguir las clases de manera efectiva. Aquí podrás acceder a:
 
-* Clases en formato de video en nuestro canal de YouTube.
+* Clases en formato de video en nuestro canal de [YouTube.](https://www.youtube.com/playlist?list=PLO92aMMVufR9QaC5Ggh4hMM_jQtwcfCsj) 👈🏻
 * Códigos de ejemplo utilizados en las clases.
 * Material complementario para ampliar tus conocimientos.
 * Interacción con otros estudiantes y el instructor.
@@ -19,7 +19,7 @@ En este repositorio, encontrarás todos los recursos necesarios para seguir las 
 
 ¡Esperamos que disfrutes del curso y aproveches al máximo esta oportunidad de aprendizaje!
 
-# ------------------
+---
 ## Indice
 * [CLASE Introducción: ](0.Clase_Introduccion) Instalación y Hola Mundo
 * [CLASE 1 Variables: ](1_Clase_Variable/) Variables CHAR e INT

@@ -2,7 +2,7 @@
 
 En esta clase sobre variables INT y CHAR en C Embebido, exploramos en profundidad el manejo de variables y los especificadores de formato utilizados en la función printf().
 
-***Puedes ver toda la clase: [aquí]() 👈🏻***
+***Puedes ver toda la clase: [aquí](https://youtu.be/m48orpysJrA) 👈🏻***
 
 ![Imagen](/1_Clase_Variable/Img/Variables_C_Embebido.png)
 
@@ -26,14 +26,14 @@ El concepto de variables signed y unsigned, y su impacto en el rango de valores 
 
 Esta clase nos proporcionó una sólida comprensión sobre las variables INT y CHAR en C Embebido, así como las herramientas necesarias para manipularlas y comprender su comportamiento en diferentes contextos. ¡Prepárate para seguir explorando más conceptos emocionantes en las próximas clases!
 
-Puedes encontrar la grabación de esta clase en este enlace de [YouTube.]()
+Puedes encontrar la grabación de esta clase en este enlace de [YouTube.](https://youtu.be/m48orpysJrA)
 
 ### Archivos que utilizamos:
 * [Main.c](/1_Clase_Variable/Codigo_STM32/) - Proyecto de STM32.
 * [Main_MplabX.c](/1_Clase_Variable/Codigo_MplabX/) - Proyecto de MplabX..
 
 ### Descarga el PDF:
-* [PDF Clase Introducción](/1_Clase_Variable/Doc/) - Documento de la clase.
+* [PDF Clase Introducción](/1.Clase_Variable/Doc/) - Documento de la clase.
 
 A continuación, te proporcionamos los enlaces de descarga de las herramientas que utilizaremos en la siguiente clase:
 
