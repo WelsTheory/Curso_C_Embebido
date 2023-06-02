@@ -2,7 +2,7 @@
 
 ¡Bienvenido al curso de C Embebido! Este programa gratuito te brindará los conocimientos necesarios para programar sistemas embebidos utilizando el lenguaje C. Cada lunes, podrás acceder a las clases en nuestro canal de YouTube, donde abordaremos desde los conceptos básicos hasta técnicas avanzadas de programación.
 
-***Puedes ver todas las clases: [aquí]() 👈🏻***
+***Puedes ver todas las clases: [aquí](https://www.youtube.com/playlist?list=PLO92aMMVufR9QaC5Ggh4hMM_jQtwcfCsj) 👈🏻***
 
 ![Imagen](/Img/C_Embebido.png)
 
@@ -21,4 +21,5 @@ En este repositorio, encontrarás todos los recursos necesarios para seguir las 
 
 # ------------------
 ## Indice
-* [CLASE Introducción: ](Clase_Introduccion) Instalación y Hola Mundo
+* [CLASE Introducción: ](0.Clase_Introduccion) Instalación y Hola Mundo
+* [CLASE 1 Variables: ](1_Clase_Variable/) Variables CHAR e INT

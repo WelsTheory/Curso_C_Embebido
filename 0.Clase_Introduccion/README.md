@@ -2,7 +2,9 @@
 
 En esta clase introductoria de C Embebido, exploramos las diferencias entre el lenguaje C estándar y C Embebido, así como las ventajas y desventajas de utilizar C en el ámbito de sistemas embebidos.
 
-***Puedes ver toda la clase: [aquí]() 👈🏻***
+***Puedes ver toda la clase: [aquí](https://youtu.be/xx9311qDOH8) 👈🏻***
+
+![Imagen](/0.Clase_Introduccion/Img/C_Embebido.png)
 
 ## Hola Mundo
 
@@ -10,14 +12,14 @@ Comenzamos realizando un "Hola mundo" utilizando la herramienta online GDB, que 
 
 También aprendimos sobre los comentarios en C y cómo utilizarlos para documentar nuestro código. Mediante ejemplos prácticos, exploramos cómo imprimir un "Hola mundo" en la consola y comprendimos los conceptos básicos para escribir programas simples en C Embebido.
   
-Esta clase sentó las bases para el curso, brindándonos una visión general de C Embebido y las herramientas necesarias para comenzar a desarrollar aplicaciones embebidas eficientes y funcionales. Puedes encontrar la grabación de esta clase en este enlace de [YouTube.](https://www.st.com/en/development-tools/stm32cubeide.html)
+Esta clase sentó las bases para el curso, brindándonos una visión general de C Embebido y las herramientas necesarias para comenzar a desarrollar aplicaciones embebidas eficientes y funcionales. Puedes encontrar la grabación de esta clase en este enlace de [YouTube.](https://www.youtube.com/watch?v=xx9311qDOH8)
 
 ### Archivos que utilizamos:
 * [Main.c](main.c) - Archivo Hola Mundo.
 * [Online GDB](https://www.onlinegdb.com/) - El compilador virtual que puedes utilizar para programar.
 
 ### Descarga el PDF:
-* [PDF Clase Introducción](/Doc/Introduccion-C_Embebido.pdf) - Documento de la clase.
+* [PDF Clase Introducción](/0.Clase_Introduccion/Doc/) - Documento de la clase.
 
 A continuación, te proporcionamos los enlaces de descarga de las herramientas que utilizaremos en la siguiente clase:
 
