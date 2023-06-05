@@ -4,7 +4,7 @@ En esta clase sobre variables INT y CHAR en C Embebido, exploramos en profundida
 
 ***Puedes ver toda la clase: [aquí](https://youtu.be/m48orpysJrA) 👈🏻***
 
-![Imagen](/1_Clase_Variable/Img/Variables_C_Embebido.png)
+![Imagen](/1.Clase_Variable/Img/Variables_C_Embebido.png)
 
 ## Desarrollo de clase
 
