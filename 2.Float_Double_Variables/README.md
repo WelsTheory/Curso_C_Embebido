@@ -26,7 +26,7 @@ Esta clase nos proporcionó una sólida comprensión sobre las variables FLOAT y
 Puedes encontrar la grabación de esta clase en este enlace de [YouTube.]()
 
 ### Archivos que utilizamos:
-* [Main.c](/Codigo_STM32/main.c) - Proyecto de STM32.
+* [Main.c](/2.Float_Double_Variables/Codigo_STM32/main.c) - Proyecto de STM32.
 
 ### Enlaces de IEEE-754:
 * [PDF IEEE 754](https://people.iith.ac.in/rogers/pds_theory/lect15_truncated.pdf) - PDF donde muestra los calculos matemáticos.
