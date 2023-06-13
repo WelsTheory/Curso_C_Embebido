@@ -2,7 +2,7 @@
 
 En esta clase sobre variables FLOAT y DOUBLE en C Embebido, exploramos el manejo de variables de punto flotante y profundizamos en conceptos clave relacionados con ellas.
 
-***Puedes ver toda la clase: [aquí]() 👈🏻***
+***Puedes ver toda la clase: [aquí](https://youtu.be/c3Vit03zpWk) 👈🏻***
 
 ![Imagen](/2.Float_Double_Variables/Img/Float_Double_C_Embebido.png)
 
@@ -23,7 +23,7 @@ Aprendimos sobre la importancia de la librería STDINT.h, que proporciona defini
 
 Esta clase nos proporcionó una sólida comprensión sobre las variables FLOAT y DOUBLE en C Embebido, así como las herramientas necesarias para manipularlas y comprender su comportamiento en diferentes contextos. ¡Prepárate para seguir explorando más conceptos emocionantes en las próximas clases!
 
-Puedes encontrar la grabación de esta clase en este enlace de [YouTube.]()
+Puedes encontrar la grabación de esta clase en este enlace de [YouTube.](https://youtu.be/c3Vit03zpWk)
 
 ### Archivos que utilizamos:
 * [Main.c](/2.Float_Double_Variables/Codigo_STM32/main.c) - Proyecto de STM32.
