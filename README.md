@@ -21,5 +21,7 @@ En este repositorio, encontrarás todos los recursos necesarios para seguir las 
 
 ---
 ## Indice
-* [CLASE Introducción: ](0.Clase_Introduccion) Instalación y Hola Mundo
-* [CLASE 1 Variables: ](1_Clase_Variable/) Variables CHAR e INT
+* [CLASE Introducción: ](/0.Clase_Introduccion/) Instalación y Hola Mund
+* [CLASE 1 Variables: ](/1.Clase_Variable/) Variables CHAR e INT
+* [CLASE 2 Float - Double: ](/2.Float_Double_Variables/) Variables Float y Double
+* [CLASE 3 Pointer - Casting: ](/3.Pointer_Casting//) Punteros y Casteo
