@@ -1,6 +1,6 @@
 # Clase Nro 3 Punteros y Casteo en C Embebido
 
-En esta clase sobre variables FLOAT y DOUBLE en C Embebido, exploramos el uso y la importancia de los punteros en la programación de sistemas embebidos.
+En esta clase sobre variables Punteros y Casteo en C Embebido, exploramos el uso y la importancia de los punteros en la programación de sistemas embebidos.
 
 ***Puedes ver toda la clase: [aquí](https://youtu.be/yMm2qUFZZCc) 👈🏻***
 
