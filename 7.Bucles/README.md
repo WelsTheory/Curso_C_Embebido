@@ -2,9 +2,9 @@
 
 En esta clase sobre bucles FOR, While y Do-While en C Embebido, exploramos las estructuras de control de repetición y cómo utilizarlas para ejecutar bloques de código de manera repetitiva.
 
-***Puedes ver toda la clase: [aquí]() 👈🏻***
+***Puedes ver toda la clase: [aquí](https://youtu.be/9cgD1VNCrms) 👈🏻***
 
-![Imagen]()
+![Imagen](/7.Bucles/Img/Programas_Bucle_Embebido.png)
 
 ## Desarrollo de clase
 
@@ -24,7 +24,7 @@ Por último, exploramos el uso de las palabras clave BREAK y CONTINUE dentro de 
 
 A través de ejemplos prácticos, exploramos cómo utilizar estas estructuras de control de repetición y las palabras clave BREAK y CONTINUE para implementar lógica de bucle y ejecutar tareas repetitivas de manera eficiente en sistemas embebidos.
 
-Puedes encontrar la grabación de esta clase en este enlace de [YouTube.]()
+Puedes encontrar la grabación de esta clase en este enlace de [YouTube.](https://youtu.be/9cgD1VNCrms)
 
 ### Archivos que utilizamos:
 * [Main.c](/7.Bucles/Codigo_STM32/Src/main.c) - Proyecto de STM32.
@@ -32,7 +32,7 @@ Puedes encontrar la grabación de esta clase en este enlace de [YouTube.]()
 * [Online GDB](https://www.onlinegdb.com/) - El compilador virtual que puedes utilizar para programar.
 
 ### Descarga el PDF:
-* [PDF Clase Operadores Bitwise](/7.Bucles/Doc/Programando%20con%20Bucles%20Clase%207%20-%20C%20Embebido.pdf) - Documento de la clase.
+* [PDF Clase Bucles](/7.Bucles/Doc/Programando%20con%20Bucles%20Clase%207%20-%20C%20Embebido.pdf) - Documento de la clase.
 
 A continuación, te proporcionamos los enlaces de descarga de las herramientas que utilizaremos en la siguiente clase:
 
