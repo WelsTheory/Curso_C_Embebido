@@ -25,6 +25,8 @@ En este repositorio, encontrarás todos los recursos necesarios para seguir las 
 * [CLASE 1 Variables: ](/1.Clase_Variable/) Variables CHAR e INT
 * [CLASE 2 Float - Double: ](/2.Float_Double_Variables/) Variables Float y Double
 * [CLASE 3 Pointer - Casting: ](/3.Pointer_Casting//) Punteros y Casteo
-* [CLASE 4 Programa Punteros: ](/3.Pointer_Casting//) Aplicamos Punteros en nuestro Microcontrolador
-* [CLASE 5 Operadores BitWise: ](/3.Pointer_Casting//) Operadores bit a bit
-* [CLASE 6 If Else Switch: ](/3.Pointer_Casting//) Condicionales IF
+* [CLASE 4 Programa Punteros: ](/4.Programa_Punteros/) Aplicamos Punteros en nuestro Microcontrolador
+* [CLASE 5 Operadores BitWise: ](/5.Operadores_Bitwise/) Operadores bit a bit
+* [CLASE 6 If Else Switch: ](/6.IF%20Else/) Condicionales IF
+* [CLASE 7 Bucles:](/7.Bucles/) While - FOR - Do While
+* [CLASE 8 Funciones:](/8.Funciones/) Funciones con retorno y sin retorno
