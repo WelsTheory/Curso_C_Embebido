@@ -10,6 +10,7 @@
 /Programa_DelayFor
 /Programa_Funciones
 /Programa_Calificadores_Const_Volatile
+/Programa_Estructuras
 /4.Programa_Punteros/Codigo_STM32/Debug
 /4.Programa_Punteros/Codigo PIC18/Hola_Mundo.X/debug
 /4.Programa_Punteros/Codigo PIC18/Hola_Mundo.X/dist
@@ -20,3 +21,10 @@
 /7.Bucles/Codigo_STM32/Debug
 /8.Funciones/Codigo_STM32/.settings
 /9.Const_Volatile/Codigo_STM32/.settings
+/11.Struct/Codigo_STM32/.settings
+/11.Struct/Codigo_STM32/Startup
+/11.Struct/Codigo_STM32/.cproject
+/11.Struct/Codigo_STM32/.project
+/11.Struct/Codigo_STM32/Programa_Estructuras Debug.launch
+/11.Struct/Codigo_STM32/STM32F429ZITX_FLASH.ld
+/11.Struct/Codigo_STM32/STM32F429ZITX_RAM.ld

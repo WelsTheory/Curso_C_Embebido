@@ -30,3 +30,6 @@ En este repositorio, encontrarás todos los recursos necesarios para seguir las 
 * [CLASE 6 If Else Switch: ](/6.IF%20Else/) Condicionales IF
 * [CLASE 7 Bucles:](/7.Bucles/) While - FOR - Do While
 * [CLASE 8 Funciones:](/8.Funciones/) Funciones con retorno y sin retorno
+* [CLASE 9 Const y Volatile:](/9.Const_Volatile/) Variables Const y Volatile
+* [CLASE 10 Static Extern :](/10.Static_Extern/) Variables y funciones Static y Extern
+* [CLASE 11 Estructuras:](/11.Struct/) Estructuras
