@@ -1,4 +1,5 @@
 .metadata
+/.vscode
 /Vscode
 /Hola_C
 /Prueba_C
@@ -11,10 +12,12 @@
 /Programa_Funciones
 /Programa_Calificadores_Const_Volatile
 /Programa_Estructuras
+/Programando_Estructuras
 /4.Programa_Punteros/Codigo_STM32/Debug
 /4.Programa_Punteros/Codigo PIC18/Hola_Mundo.X/debug
 /4.Programa_Punteros/Codigo PIC18/Hola_Mundo.X/dist
 /4.Programa_Punteros/Codigo PIC18/Hola_Mundo.X/build
+/4.Programa_Punteros/Codigo PIC18/Hola_Mundo.X/nbproject
 /4.Programa_Punteros/Codigo_STM32/.settings
 /5.Operadores_Bitwise/Codigo_STM32/.settings
 /7.Bucles/Codigo_STM32/.settings
@@ -28,3 +31,14 @@
 /11.Struct/Codigo_STM32/Programa_Estructuras Debug.launch
 /11.Struct/Codigo_STM32/STM32F429ZITX_FLASH.ld
 /11.Struct/Codigo_STM32/STM32F429ZITX_RAM.ld
+/12.Struct_Embebido/Codigo PIC18/Hola_Mundo.X/debug
+/12.Struct_Embebido/Codigo PIC18/Hola_Mundo.X/build
+/12.Struct_Embebido/Codigo PIC18/Hola_Mundo.X/dist
+/12.Struct_Embebido/Codigo PIC18/Hola_Mundo.X/nbproject
+/12.Struct_Embebido/Codigo_STM32/.settings
+/12.Struct_Embebido/Codigo_STM32/Startup
+/12.Struct_Embebido/Codigo_STM32/.cproject
+/12.Struct_Embebido/Codigo_STM32/.project
+/12.Struct_Embebido/Codigo_STM32/Programa_Estructuras Debug.launch
+/12.Struct_Embebido/Codigo_STM32/STM32F429ZITX_FLASH.ld
+/12.Struct_Embebido/Codigo_STM32/STM32F429ZITX_RAM.ld
