@@ -33,3 +33,6 @@ En este repositorio, encontrarás todos los recursos necesarios para seguir las 
 * [CLASE 9 Const y Volatile:](/9.Const_Volatile/) Variables Const y Volatile
 * [CLASE 10 Static Extern :](/10.Static_Extern/) Variables y funciones Static y Extern
 * [CLASE 11 Estructuras:](/11.Struct/) Estructuras
+* [CLASE 12 Estructuras Embebida:](/11.Struct/) Estructuras en Embebidos
+* [CLASE 13 Union:](/11.Struct/) Uniones en C
+* [CLASE 14 Libreria en C:](/11.Struct/) Libreria para LCD I2C para PIC18, dsPIC y STM32
