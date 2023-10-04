@@ -26,7 +26,7 @@ En resumen, esta clase nos proporcionó una comprensión sólida de cómo utiliz
 
 ¡Prepárate para seguir explorando más conceptos emocionantes en las próximas clases!
 
-Puedes encontrar la grabación de esta clase en este enlace de [YouTube.](https://youtu.be/ps2Q2NtB-3g)
+Puedes encontrar la grabación de esta clase en este enlace de [YouTube.](https://youtu.be/JaO_f3L25Fk)
 
 ### Archivos que utilizamos:
 * [Main.c](/11.Struct/main.c) - Archivo Hola Mundo.
